@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3CA43C26-E152-6601-560B-2932C764F066}") = "CreepySnowGlobe", "Assembly-CSharp.csproj", "{5C064661-A8AC-9972-D8C3-4541ACAFA138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C064661-A8AC-9972-D8C3-4541ACAFA138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C064661-A8AC-9972-D8C3-4541ACAFA138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C064661-A8AC-9972-D8C3-4541ACAFA138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C064661-A8AC-9972-D8C3-4541ACAFA138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
